@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-03T20:10:56 IST" name="Suite" finished-at="2025-04-03T20:10:56 IST" duration-ms="58">
+    <groups>
+      <group name="regression">
+        <method signature="LoginTest.TC1()[pri:2, instance:testngclasses.LoginTest@43195e57]" name="TC1" class="testngclasses.LoginTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="LoginTest.TC1()[pri:2, instance:testngclasses.LoginTest@43195e57]" name="TC1" class="testngclasses.LoginTest"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="LoginTest.TC1()[pri:2, instance:testngclasses.LoginTest@43195e57]" name="TC1" class="testngclasses.LoginTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2025-04-03T20:10:56 IST" name="Test" finished-at="2025-04-03T20:10:56 IST" duration-ms="58">
+      <class name="testngclasses.LoginTest">
+        <test-method signature="TC1()[pri:2, instance:testngclasses.LoginTest@43195e57]" started-at="2025-04-03T20:10:56 IST" name="TC1" description="verify that user is able to login with valid credentials" finished-at="2025-04-03T20:10:56 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+      </class> <!-- testngclasses.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
